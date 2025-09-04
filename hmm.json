@@ -18,17 +18,22 @@
     {
       "name": "flixel",
       "type": "haxelib",
-      "version": "4.11.0"
+      "version": "5.2.2"
     },
     {
       "name": "flixel-addons",
       "type": "haxelib",
-      "version": "2.11.0"
+      "version": "3.0.2"
     },
     {
       "name": "flixel-tools",
       "type": "haxelib",
       "version": "1.5.1"
+    },
+    {
+      "name": "SScript",
+      "type": "haxelib",
+      "version": "7.7.0"
     },
     {
       "name": "hxjsonast",
@@ -44,10 +49,6 @@
       "version": "2.4.0"
     },
     {
-      "name": "hscript",
-      "type": "haxelib"
-    },
-    {
       "name": "tjson",
       "type": "haxelib"
     },
@@ -56,6 +57,12 @@
       "type": "git",
       "ref": "main",
       "url": "https://github.com/SPLCoding/hxCodec-but-it-works-xd.git"
+    },
+    {
+      "name": "discord_rpc",
+      "type": "git",
+      "ref": "master",
+      "url": "https://github.com/Aidan63/linc_discord-rpc"
     },
     {
       "name": "extension-androidtools",
@@ -68,6 +75,18 @@
       "type": "git",
       "ref": "master",
       "url": "https://github.com/Moxie-Stuff/linc_luajit"
+    },
+    {
+      "name": "androiddialogs",
+      "type": "git",
+      "ref": "master",
+      "url": "https://github.com/beihu235/AndroidDialogs"
+    },
+    {
+      "name": "devicelanguage",
+      "type": "git",
+      "ref": "master",
+      "url": "https://github.com/beihu235/devicelanguage"
     }
   ]
 }
