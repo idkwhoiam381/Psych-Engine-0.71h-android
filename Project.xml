@@ -110,7 +110,6 @@
 	<!--In case you want to use the addons package-->
 	<haxelib name="flixel-addons" />
 	<haxelib name="hscript" />
-	<haxelib name="SScript" />
 	<define name="hscriptPos" />
 	<haxelib name="androiddialogs" if="android" />
 	<haxelib name="devicelanguage" if="android" />
