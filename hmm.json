@@ -35,6 +35,10 @@
       "type": "haxelib"
     },
     {
+      "name": "SScript",
+      "type": "haxelib"
+    },
+    {
       "name": "hxjsonast",
       "type": "haxelib"
     },
