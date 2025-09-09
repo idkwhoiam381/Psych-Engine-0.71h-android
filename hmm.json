@@ -52,6 +52,12 @@
       "type": "haxelib"
     },
     {
+      "name": "SScript",
+      "type": "git",
+      "ref": "main",
+      "url": "https://github.com/AlafandyPorting/SScript"
+    },
+    {
       "name": "hxCodec",
       "type": "git",
       "ref": "main",
@@ -70,10 +76,10 @@
       "url": "https://github.com/MaysLastPlay77/extension-androidtools"
     },
     {
-      "name": "linc_luajit",
+      "name": "linc_luajit-rewriten",
       "type": "git",
-      "ref": "master",
-      "url": "https://github.com/Moxie-Stuff/linc_luajit"
+      "ref": "main",
+      "url": "https://github.com/idkwhoiam381/linc_luajit-rewriten"
     },
     {
       "name": "androiddialogs",
