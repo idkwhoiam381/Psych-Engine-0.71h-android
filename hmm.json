@@ -78,7 +78,7 @@
     {
       "name": "linc_luajit",
       "type": "git",
-      "ref": "main",
+      "ref": "master",
       "url": "https://github.com/idkwhoiam381/linc_luajit"
     },
     {
