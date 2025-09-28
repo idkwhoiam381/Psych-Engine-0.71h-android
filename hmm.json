@@ -55,7 +55,7 @@
       "name": "SScript",
       "type": "git",
       "ref": "main",
-      "url": "https://github.com/AlafandyPorting/SScript"
+      "url": "https://github.com/idkwhoiam381/SScript-8.1.6"
     },
     {
       "name": "hxCodec",
@@ -76,10 +76,10 @@
       "url": "https://github.com/MaysLastPlay77/extension-androidtools"
     },
     {
-      "name": "linc_luajit-rewriten",
+      "name": "linc_luajit",
       "type": "git",
       "ref": "main",
-      "url": "https://github.com/idkwhoiam381/linc_luajit-rewriten"
+      "url": "https://github.com/idkwhoiam381/linc_luajit"
     },
     {
       "name": "androiddialogs",
